@@ -1,0 +1,4 @@
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Cheatsheet
+https://ryanstutorials.net/linuxtutorial/vi.php   --- cmd line directions
+https://www.internetingishard.com/  --- html teacher
+http://htmlpreview.github.io/?  --- prepend to github address to see website
